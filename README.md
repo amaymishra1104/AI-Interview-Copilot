@@ -1,7 +1,7 @@
 # NEXUS.AI — AI Interview Simulation Platform
 
 > **Live Demo → [ai-interview-platform-one-wine.vercel.app](https://ai-interview-platform-one-wine.vercel.app)**
-> **GitHub → [sakshigupta372/ai-interview-platform](https://github.com/sakshigupta372/ai-interview-platform)**
+> **GitHub → [sakshigupta372/ai-interview-platform](https://github.com/amaymishra1104/AI-INTERVIEW-COPILOT.git)**
 
 ![NEXUS.AI Screenshot](./assets/screenshot.png)
 
@@ -262,4 +262,4 @@ nexus-ai/
 
 ## License
 
-MIT — built with ❤️ by [@sakshigupta372](https://github.com/sakshigupta372)
+MIT — made by Amay Mishra
