@@ -1,15 +1,15 @@
-# NEXUS.AI — AI Interview Simulation Platform
+# AI Interview Copilot — by Amay Mishra
 
 > **Live Demo → [ai-interview-platform-one-wine.vercel.app](https://ai-interview-platform-one-wine.vercel.app)**
-> **GitHub → [sakshigupta372/ai-interview-platform](https://github.com/amaymishra1104/AI-INTERVIEW-COPILOT.git)**
+> **GitHub → [amaymishra1104/AI-INTERVIEW-COPILOT](https://github.com/amaymishra1104/AI-INTERVIEW-COPILOT)**
 
-![NEXUS.AI Screenshot](./assets/screenshot.png)
+![AI Interview Copilot Screenshot](./assets/screenshot.png)
 
 ---
 
 ## What is this?
 
-NEXUS.AI is a **production-grade, agentic AI interview simulation engine** powered by Google Gemini. It runs a full multi-agent pipeline to generate adaptive questions, evaluate your answers in real time, and build a neural profile of your strengths and weaknesses — across 5 progressively harder questions.
+AI Interview Copilot is a **production-grade, agentic AI interview simulation engine** powered by Google Gemini. It runs a full multi-agent pipeline to generate adaptive questions, evaluate your answers in real time, and build a neural profile of your strengths and weaknesses — across 5 progressively harder questions.
 
 Users bring their own Gemini API key (BYOK), upload their resume for personalised questions, and choose between voice answers, text answers, or a full coding round with a Monaco code editor.
 
@@ -144,7 +144,7 @@ npm install
 
 Create `server/.env`:
 ```env
-MONGO_URI=mongodb://localhost:27017/nexus-ai
+MONGO_URI=mongodb://localhost:27017/ai-interview-copilot
 PORT=5000
 FRONTEND_URL=http://localhost:3000
 ```
@@ -231,7 +231,7 @@ FRONTEND_URL=    # https://your-app.vercel.app
 ## Project Structure
 
 ```
-nexus-ai/
+ai-interview-copilot/
 ├── client/                      # Next.js frontend (Vercel)
 │   ├── app/
 │   │   ├── page.js              # Main interview simulator
@@ -262,4 +262,4 @@ nexus-ai/
 
 ## License
 
-MIT — made by Amay Mishra
+MIT — built with ❤️ by [@amaymishra1104](https://github.com/amaymishra1104)
